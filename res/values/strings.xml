@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Map Explorer</string>
+    <string name="mapDescription">a map</string>
+    <string name="buttonText">New map</string>
+</resources>
